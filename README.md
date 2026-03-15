@@ -101,6 +101,7 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/StageFreight?style=social)
 
   **Declarative CI/CD engine** for container images. Detect, build, scan, sign, and release — driven by a single `.stagefreight.yml` manifest.
+
   ![](https://img.shields.io/badge/Multi--registry_publishing-555?style=flat) ![](https://img.shields.io/badge/Tag_policies_&_retention-555?style=flat) ![](https://img.shields.io/badge/Vuln_scanning_(Trivy+Grype)-555?style=flat) ![](https://img.shields.io/badge/SBOM_generation-555?style=flat) ![](https://img.shields.io/badge/Manifest--driven_README-555?style=flat) ![](https://img.shields.io/badge/GitLab_CI_component-555?style=flat)
 
   </td>
@@ -110,6 +111,7 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/HASteward?style=social)
 
   **High Availability Steward** for stateful database services. Triage, repair, backup, and restore — safely.
+
   ![](https://img.shields.io/badge/CloudNativePG_(PostgreSQL)-555?style=flat) ![](https://img.shields.io/badge/Galera_(MariaDB)-555?style=flat) ![](https://img.shields.io/badge/Escrow_backups,_restic--backed-555?style=flat) ![](https://img.shields.io/badge/K8s_Job,_no_cluster_privs-555?style=flat)
 
   </td>
@@ -121,6 +123,7 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/fairer-pages?style=social)
 
   **Custom error and default page server** for Gateway API / reverse proxy environments.
+
   ![](https://img.shields.io/badge/Branded_error_pages_(404,_502)-555?style=flat) ![](https://img.shields.io/badge/Catch--all_HTTPRoute_fallback-555?style=flat) ![](https://img.shields.io/badge/Lightweight,_single_binary-555?style=flat)
 
   </td>
@@ -130,6 +133,7 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/DD-UI?style=social) ![Forks](https://img.shields.io/github/forks/PrPlanIT/DD-UI?style=social)
 
   **Declarative, security-first Docker orchestration engine.** *"Sometimes you need someone else to take the wheel... Please Docker responsibly."*
+
   ![](https://img.shields.io/badge/Declarative_configuration-555?style=flat) ![](https://img.shields.io/badge/Security--first_architecture-555?style=flat) ![](https://img.shields.io/badge/Simplified_container_mgmt-555?style=flat)
 
   </td>
@@ -141,6 +145,7 @@
   ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/VirtualDisplayDriver_Wizard?style=social) ![Forks](https://img.shields.io/github/forks/PrPlanIT/VirtualDisplayDriver_Wizard?style=social)
 
   **AutoHotkey GUI** for efficient manipulation of Indirect Display Drivers. Integrates seamlessly with Sunshine for remote gaming/desktop streaming.
+
   ![](https://img.shields.io/badge/One--click_Install%2FUninstall%2FReload-555?style=flat) ![](https://img.shields.io/badge/Driver_config_management-555?style=flat) ![](https://img.shields.io/badge/Virtual_display_setups-555?style=flat)
 
   </td>
@@ -150,6 +155,7 @@
   ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Stars](https://img.shields.io/github/stars/HomeLabHD/PVE_Ceph-Disaster_Recovery?style=social)
 
   **Shell-based recovery solution** for Ceph monitor stores when your Proxmox cluster has lost all monitors.
+
   ![](https://img.shields.io/badge/Restore_monitor_quorum_from_OSDs-555?style=flat) ![](https://img.shields.io/badge/Refactored_&_improved-555?style=flat) ![](https://img.shields.io/badge/Battle--tested_on_production-555?style=flat)
 
   </td>
@@ -166,6 +172,7 @@
   ![Stars](https://img.shields.io/github/stars/SoFMeRight/dungeon?style=social)
 
   **Home automation repository** mirrored from GitLab. Declares the complete state of my Kubernetes cluster with base configs for Docker hosts and Ansible automation.
+
   ![](https://img.shields.io/badge/Kubernetes_cluster_definitions-555?style=flat) ![](https://img.shields.io/badge/Ansible_playbooks-555?style=flat) ![](https://img.shields.io/badge/Docker_host_configs-555?style=flat) ![](https://img.shields.io/badge/GitOps_deployment-555?style=flat)
 
   </td>
@@ -188,6 +195,7 @@
 
   #### [stagefreight-glc](https://gitlab.prplanit.com/PrPlanIT/StageFreight/components-stagefreight)
   **Reusable GitLab CI component** for managing and publishing release artifacts.
+
   ![](https://img.shields.io/badge/Automated_artifact_mgmt-555?style=flat) ![](https://img.shields.io/badge/Streamlined_publishing-555?style=flat) ![](https://img.shields.io/badge/Reusable_across_projects-555?style=flat)
 
   </td>
@@ -195,6 +203,7 @@
 
   #### [ollama-glc](https://gitlab.prplanit.com/PrPlanIT/components-ollama)
   **GitLab CI/CD component** that provides LLM text generation via the Ollama REST API.
+
   ![](https://img.shields.io/badge/AI_text_gen_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Ollama_REST_API-555?style=flat) ![](https://img.shields.io/badge/Configurable_LLM_workflows-555?style=flat)
 
   </td>
@@ -204,6 +213,7 @@
 
   #### [ntfy-glc](https://gitlab.prplanit.com/PrPlanIT/components-ntfy)
   **GitLab CI/CD Component** to provide ntfy web-push notifications as a stage.
+
   ![](https://img.shields.io/badge/Real--time_CI%2FCD_notifications-555?style=flat) ![](https://img.shields.io/badge/ntfy_web--push-555?style=flat) ![](https://img.shields.io/badge/Pipeline_status_alerts-555?style=flat)
 
   </td>
@@ -211,6 +221,7 @@
 
   #### [ansible-glc](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD/components-ansible)
   **GitLab CI/CD Component** for Ansible scripts and playbooks.
+
   ![](https://img.shields.io/badge/Ansible_automation_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Playbook_pipeline_stages-555?style=flat) ![](https://img.shields.io/badge/IaC_integration-555?style=flat)
 
   </td>
