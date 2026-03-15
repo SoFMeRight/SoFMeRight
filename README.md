@@ -193,7 +193,7 @@
   <tr>
   <td width="50%">
 
-  #### [ollama-glc](https://github.com/HomeLabHD/ollama)
+  #### [ollama](https://github.com/HomeLabHD/ollama)
   **GitLab CI/CD component** that provides LLM text generation via the Ollama REST API.
 
   ![](https://img.shields.io/badge/AI_text_gen_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Ollama_REST_API-555?style=flat) ![](https://img.shields.io/badge/Configurable_LLM_workflows-555?style=flat)
@@ -201,7 +201,7 @@
   </td>
   <td width="50%">
 
-  #### [ntfy-glc](https://github.com/HomeLabHD/ntfy)
+  #### [ntfy](https://github.com/HomeLabHD/ntfy)
   **GitLab CI/CD Component** to provide ntfy web-push notifications as a stage.
 
   ![](https://img.shields.io/badge/Real--time_CI%2FCD_notifications-555?style=flat) ![](https://img.shields.io/badge/ntfy_web--push-555?style=flat) ![](https://img.shields.io/badge/Pipeline_status_alerts-555?style=flat)
