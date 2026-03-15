@@ -23,28 +23,29 @@
 
   ---
 
-  ## About Me
+  ## 🏠 About Me
 
   I'm passionate about **infrastructure automation** and the **FOSS community**. I like exploring tools that solve problems in distributed computation & storage environments.
 
-  - Focused on **declarative infrastructure** and **security-first design**
-  - Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
-  - I maintain the production environment for PrecisionPlanIT ~ Proxmox, K8s, Ceph storage, and automated deployments
-  - Coding to: [![Ethereal_Bliss](https://img.shields.io/badge/Ethereal_Bliss-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/76iGZMgSbNk1JXH9gd6bNg?si=93f768dcfbd44511) [![EDM_Anthems_Forever](https://img.shields.io/badge/EDM_Anthems_Forever-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2LwbPxJdGjnqk0YIqpQY5N?si=60549587cf06429f)
+  - 🌐 Focused on **declarative infrastructure** and **security-first design**
+  - 💾 Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
+  - 🏗️ I maintain the production environment for PrecisionPlanIT ~ Proxmox, K8s, Ceph storage, and automated deployments
+  - 🎵 Coding to: [![Ethereal_Bliss](https://img.shields.io/badge/Ethereal_Bliss-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/76iGZMgSbNk1JXH9gd6bNg?si=93f768dcfbd44511) [![EDM_Anthems_Forever](https://img.shields.io/badge/EDM_Anthems_Forever-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2LwbPxJdGjnqk0YIqpQY5N?si=60549587cf06429f)
 
   ---
 
-  ## What I'm Working On
+  ## 💡 What I'm Working On
 
-  - Building [StageFreight](https://github.com/PrPlanIT/StageFreight) — declarative CI/CD engine for container images
-  - Building [HASteward](https://github.com/PrPlanIT/HASteward) — high availability steward for stateful database recovery
-  - Building [Fairer-Pages](https://github.com/PrPlanIT/fairer-pages) — custom error page server for Gateway API
-  - Maintaining the [HomeLabHD](https://github.com/HomeLabHD) container image catalog
-  - Expanding my homelab Kubernetes cluster & automating bare-metal PXE deployments
+  - ☸️ Exploring the seemingly endless rabbit hole ecosystem that is Kubernetes
+  - 🏗️ Reasoning about Platform Engineering concepts — refactoring my environment to be more ergonomic and proper, learning a lot, and feeling like I know less the more I know
+  - 🔍 Looking for ways to make my digital life easier — interviewing new projects and solutions in the community, sometimes trying my luck at making my own
+  - 🛠️ Building [StageFreight](https://github.com/PrPlanIT/StageFreight) and [HASteward](https://github.com/PrPlanIT/HASteward) — tools born from real problems in my own infrastructure
+  - 📦 Maintaining the [HomeLabHD](https://github.com/HomeLabHD) container image catalog
+  - 📚 Continuously learning — building skills that are useful to my clients, the organizations I partner with, and the broader tech community
 
   ---
 
-  ## Mission
+  ## 🎯 Mission
 
   **Security and infrastructure knowledge should be accessible to everyone.**
 
@@ -54,11 +55,11 @@
 
   **The security of one is the security of all. We are in this together.**
 
-  I'm vegan by the way.
+  I'm vegan by the way. 🤧
 
   ---
 
-  ## GitHub Stats
+  ## 📊 GitHub Stats
 
   <div align="center">
 
@@ -72,7 +73,7 @@
 
   ---
 
-  ## Tech Stack
+  ## 🛠️ Tech Stack
 
   | | |
   |---|---|
@@ -88,34 +89,133 @@
 
   ---
 
-  ## Featured Projects
+  ## 🚀 Featured Projects
 
-  ### DevOps & Infrastructure Tools
+  ### 🛠️ DevOps & Infrastructure Tools
 
-  | | |
-  |---|---|
-  | [**StageFreight**](https://github.com/PrPlanIT/StageFreight) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) | **Declarative CI/CD engine** for container images. Build, scan, sign, release from `.stagefreight.yml`. Multi-registry publishing, vulnerability scanning, SBOM generation, manifest-driven README content. |
-  | [**HASteward**](https://github.com/PrPlanIT/HASteward) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white) | **High Availability Steward** for stateful databases. Triage, repair, backup, restore for CloudNativePG (PostgreSQL) and Galera (MariaDB). Escrow backups, restic-backed, runs as a K8s Job. |
-  | [**Fairer-Pages**](https://github.com/PrPlanIT/fairer-pages) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) | **Custom error and default page server** for Gateway API environments. Branded error pages, catch-all HTTPRoute fallback, single binary. |
-  | [**DD-UI**](https://github.com/PrPlanIT/DD-UI) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) | **Declarative, security-first Docker orchestration engine.** *"Please Docker responsibly."* |
-  | [**VirtualDisplayDriver_Wizard**](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard) ![AutoHotkey](https://img.shields.io/badge/-334455?style=flat&logo=autohotkey&logoColor=white) | **AutoHotkey GUI** for Indirect Display Drivers. Sunshine integration, one-click install/reload, virtual display setup for headless hosts. |
-  | [**PVE_Ceph-Disaster_Recovery**](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery) ![Shell](https://img.shields.io/badge/-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | **Ceph monitor store recovery** for Proxmox clusters that lost all monitors. Restore quorum from OSDs. Battle-tested. |
+  <table>
+  <tr>
+  <td width="50%">
 
-  ### Container Images & Infrastructure
+  #### [StageFreight](https://github.com/PrPlanIT/StageFreight)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/StageFreight?style=social)
 
-  | | |
-  |---|---|
-  | [**Dungeon**](https://github.com/SoFMeRight/dungeon) | Complete Kubernetes cluster state — FluxCD, Ansible, Ceph, Cilium, Istio. The whole production stack as code. |
-  | [**HomeLabHD Catalog**](https://github.com/HomeLabHD) [![hlhd](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd) | Community container images — [ansible](https://github.com/HomeLabHD/ansible), [apt-cacher-ng](https://github.com/HomeLabHD/apt-cacher-ng), [nginx-extras](https://github.com/HomeLabHD/nginx-extras), and more. |
+  **Declarative CI/CD engine** for container images. Detect, build, scan, sign, and release — driven by a single `.stagefreight.yml` manifest.
+  ![](https://img.shields.io/badge/Multi--registry_publishing-555?style=flat) ![](https://img.shields.io/badge/Tag_policies_&_retention-555?style=flat) ![](https://img.shields.io/badge/Vuln_scanning_(Trivy+Grype)-555?style=flat) ![](https://img.shields.io/badge/SBOM_generation-555?style=flat) ![](https://img.shields.io/badge/Manifest--driven_README-555?style=flat) ![](https://img.shields.io/badge/GitLab_CI_component-555?style=flat)
 
-  ### GitLab CI Components
+  </td>
+  <td width="50%">
 
-  | | |
-  |---|---|
-  | [**stagefreight-glc**](https://gitlab.prplanit.com/PrPlanIT/StageFreight/components-stagefreight) | Reusable CI component for StageFreight release pipelines — automated artifact management and publishing. |
-  | [**ollama-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ollama) | LLM text generation via Ollama REST API in CI. Configurable model workflows. |
-  | [**ntfy-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ntfy) | ntfy web-push notifications as a CI pipeline stage. |
-  | [**ansible-glc**](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD/components-ansible) | Ansible playbook execution as CI pipeline stages. |
+  #### [HASteward](https://github.com/PrPlanIT/HASteward)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/HASteward?style=social)
+
+  **High Availability Steward** for stateful database services. Triage, repair, backup, and restore — safely.
+  ![](https://img.shields.io/badge/CloudNativePG_(PostgreSQL)-555?style=flat) ![](https://img.shields.io/badge/Galera_(MariaDB)-555?style=flat) ![](https://img.shields.io/badge/Escrow_backups,_restic--backed-555?style=flat) ![](https://img.shields.io/badge/K8s_Job,_no_cluster_privs-555?style=flat)
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  #### [Fairer-Pages](https://github.com/PrPlanIT/fairer-pages)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/fairer-pages?style=social)
+
+  **Custom error and default page server** for Gateway API / reverse proxy environments.
+  ![](https://img.shields.io/badge/Branded_error_pages_(404,_502)-555?style=flat) ![](https://img.shields.io/badge/Catch--all_HTTPRoute_fallback-555?style=flat) ![](https://img.shields.io/badge/Lightweight,_single_binary-555?style=flat)
+
+  </td>
+  <td width="50%">
+
+  #### [DD-UI](https://github.com/PrPlanIT/DD-UI)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/DD-UI?style=social) ![Forks](https://img.shields.io/github/forks/PrPlanIT/DD-UI?style=social)
+
+  **Declarative, security-first Docker orchestration engine.** *"Sometimes you need someone else to take the wheel... Please Docker responsibly."*
+  ![](https://img.shields.io/badge/Declarative_configuration-555?style=flat) ![](https://img.shields.io/badge/Security--first_architecture-555?style=flat) ![](https://img.shields.io/badge/Simplified_container_mgmt-555?style=flat)
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  #### [VirtualDisplayDriver_Wizard](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard)
+  ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/VirtualDisplayDriver_Wizard?style=social) ![Forks](https://img.shields.io/github/forks/PrPlanIT/VirtualDisplayDriver_Wizard?style=social)
+
+  **AutoHotkey GUI** for efficient manipulation of Indirect Display Drivers. Integrates seamlessly with Sunshine for remote gaming/desktop streaming.
+  ![](https://img.shields.io/badge/One--click_Install%2FUninstall%2FReload-555?style=flat) ![](https://img.shields.io/badge/Driver_config_management-555?style=flat) ![](https://img.shields.io/badge/Virtual_display_setups-555?style=flat)
+
+  </td>
+  <td width="50%">
+
+  #### [PVE_Ceph-Disaster_Recovery](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Stars](https://img.shields.io/github/stars/HomeLabHD/PVE_Ceph-Disaster_Recovery?style=social)
+
+  **Shell-based recovery solution** for Ceph monitor stores when your Proxmox cluster has lost all monitors.
+  ![](https://img.shields.io/badge/Restore_monitor_quorum_from_OSDs-555?style=flat) ![](https://img.shields.io/badge/Refactored_&_improved-555?style=flat) ![](https://img.shields.io/badge/Battle--tested_on_production-555?style=flat)
+
+  </td>
+  </tr>
+  </table>
+
+  ### 🐳 Container Images & Infrastructure
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  #### [Dungeon](https://github.com/SoFMeRight/dungeon)
+  ![Stars](https://img.shields.io/github/stars/SoFMeRight/dungeon?style=social)
+
+  **Home automation repository** mirrored from GitLab. Declares the complete state of my Kubernetes cluster with base configs for Docker hosts and Ansible automation.
+  ![](https://img.shields.io/badge/Kubernetes_cluster_definitions-555?style=flat) ![](https://img.shields.io/badge/Ansible_playbooks-555?style=flat) ![](https://img.shields.io/badge/Docker_host_configs-555?style=flat) ![](https://img.shields.io/badge/GitOps_deployment-555?style=flat)
+
+  </td>
+  <td width="50%">
+
+  #### [HomeLabHD Catalog](https://github.com/HomeLabHD)
+  [![Docker Hub](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
+
+  Community container images for homelab and CI — [ansible](https://github.com/HomeLabHD/ansible), [apt-cacher-ng](https://github.com/HomeLabHD/apt-cacher-ng), [nginx-extras](https://github.com/HomeLabHD/nginx-extras), and more.
+
+  </td>
+  </tr>
+  </table>
+
+  ### 🔧 GitLab CI/CD Components
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  #### [stagefreight-glc](https://gitlab.prplanit.com/PrPlanIT/StageFreight/components-stagefreight)
+  **Reusable GitLab CI component** for managing and publishing release artifacts.
+  ![](https://img.shields.io/badge/Automated_artifact_mgmt-555?style=flat) ![](https://img.shields.io/badge/Streamlined_publishing-555?style=flat) ![](https://img.shields.io/badge/Reusable_across_projects-555?style=flat)
+
+  </td>
+  <td width="50%">
+
+  #### [ollama-glc](https://gitlab.prplanit.com/PrPlanIT/components-ollama)
+  **GitLab CI/CD component** that provides LLM text generation via the Ollama REST API.
+  ![](https://img.shields.io/badge/AI_text_gen_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Ollama_REST_API-555?style=flat) ![](https://img.shields.io/badge/Configurable_LLM_workflows-555?style=flat)
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  #### [ntfy-glc](https://gitlab.prplanit.com/PrPlanIT/components-ntfy)
+  **GitLab CI/CD Component** to provide ntfy web-push notifications as a stage.
+  ![](https://img.shields.io/badge/Real--time_CI%2FCD_notifications-555?style=flat) ![](https://img.shields.io/badge/ntfy_web--push-555?style=flat) ![](https://img.shields.io/badge/Pipeline_status_alerts-555?style=flat)
+
+  </td>
+  <td width="50%">
+
+  #### [ansible-glc](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD/components-ansible)
+  **GitLab CI/CD Component** for Ansible scripts and playbooks.
+  ![](https://img.shields.io/badge/Ansible_automation_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Playbook_pipeline_stages-555?style=flat) ![](https://img.shields.io/badge/IaC_integration-555?style=flat)
+
+  </td>
+  </tr>
+  </table>
 
   ---
 
@@ -125,7 +225,7 @@
 
   ### *"I adore the FOSS community and I am so inspired by its participants."*
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sofmeright@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofmeright@gmail.com)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sofmeright&color=blueviolet)
 
