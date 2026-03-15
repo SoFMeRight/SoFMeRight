@@ -193,36 +193,18 @@
   <tr>
   <td width="50%">
 
-  #### [stagefreight-glc](https://github.com/PrPlanIT/StageFreight)
-  **Reusable GitLab CI component** for managing and publishing release artifacts.
-
-  ![](https://img.shields.io/badge/Automated_artifact_mgmt-555?style=flat) ![](https://img.shields.io/badge/Streamlined_publishing-555?style=flat) ![](https://img.shields.io/badge/Reusable_across_projects-555?style=flat)
-
-  </td>
-  <td width="50%">
-
   #### [ollama-glc](https://github.com/HomeLabHD/ollama)
   **GitLab CI/CD component** that provides LLM text generation via the Ollama REST API.
 
   ![](https://img.shields.io/badge/AI_text_gen_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Ollama_REST_API-555?style=flat) ![](https://img.shields.io/badge/Configurable_LLM_workflows-555?style=flat)
 
   </td>
-  </tr>
-  <tr>
   <td width="50%">
 
   #### [ntfy-glc](https://github.com/HomeLabHD/ntfy)
   **GitLab CI/CD Component** to provide ntfy web-push notifications as a stage.
 
   ![](https://img.shields.io/badge/Real--time_CI%2FCD_notifications-555?style=flat) ![](https://img.shields.io/badge/ntfy_web--push-555?style=flat) ![](https://img.shields.io/badge/Pipeline_status_alerts-555?style=flat)
-
-  </td>
-  <td width="50%">
-
-  #### [ansible-glc](https://github.com/HomeLabHD/ansible-glc)
-  **GitLab CI/CD Component** for Ansible scripts and playbooks.
-
-  ![](https://img.shields.io/badge/Ansible_automation_in_CI%2FCD-555?style=flat) ![](https://img.shields.io/badge/Playbook_pipeline_stages-555?style=flat) ![](https://img.shields.io/badge/IaC_integration-555?style=flat)
 
   </td>
   </tr>
