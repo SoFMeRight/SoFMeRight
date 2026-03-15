@@ -68,82 +68,17 @@
   
   ## 🛠️ Tech Stack
 
-  ### Git & DevOps
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
-  ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-  
-  ### Hardware
-  ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![ADHD](https://img.shields.io/badge/ADHD-FF6B9D?style=for-the-badge&logo=lightning&logoColor=white)
-  ![AMD Radeon](https://img.shields.io/badge/AMD_Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![Eaton 5PX 3000](https://img.shields.io/badge/Eaton_5PX_3000-00A651?style=for-the-badge&logoColor=white)
-  ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-  ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white)
-  ![Supermicro](https://img.shields.io/badge/Supermicro-2EA043?style=for-the-badge&logoColor=white)
-
-  ### Identity / Security
-  ![Anubis](https://img.shields.io/badge/Anubis-000000?style=for-the-badge&logoColor=white)
-  ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
-  ![Hyrulian Shield](https://img.shields.io/badge/Hyrulian_Shield-0E4C92?style=for-the-badge&logo=nintendo&logoColor=white)
-  ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=for-the-badge&logoColor=white)
-  ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-  ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logoColor=white)
-  ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-  ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=for-the-badge&logoColor=white)
-
-  ### Infrastructure & Virtualization
-  ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-  ![apt-cacher-ng](https://img.shields.io/badge/apt--cacher--ng-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
-  ![Chrony](https://img.shields.io/badge/Chrony-1793D1?style=for-the-badge&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![FusionPBX/FreeSWITCH](https://img.shields.io/badge/FusionPBX%2FFreeSWITCH-2A9FD8?style=for-the-badge&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Proxmox](https://img.shields.io/badge/Proxmox_(VE%2FBS)-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-  ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-  ![UrBackup](https://img.shields.io/badge/UrBackup-0078D7?style=for-the-badge&logoColor=white)
-  ![Velero](https://img.shields.io/badge/Velero-5C4EE5?style=for-the-badge&logoColor=white)
-
-  ### Monitoring
-  ![Alloy](https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![NUT UPS](https://img.shields.io/badge/NUT_UPS-FFB81C?style=for-the-badge&logoColor=black)
-  ![Tactical RMM](https://img.shields.io/badge/Tactical_RMM-0089D6?style=for-the-badge&logoColor=white)
-  ![Thanos](https://img.shields.io/badge/Thanos-6D41FF?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logoColor=white)
-
-  ### 🌐 Networking
-  ![BGP](https://img.shields.io/badge/BGP-0078D4?style=for-the-badge&logoColor=white)
-  ![CARP](https://img.shields.io/badge/CARP-212121?style=for-the-badge&logoColor=white)
-  ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
-  ![Comcast Business (/29)](https://img.shields.io/badge/Comcast_Business_(\/29)-000000?style=for-the-badge&logoColor=white)
-  ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-  ![La Fin Du Monde | Unibroue](https://img.shields.io/badge/La_Fin_Du_Monde_%7C_Unibroue-FFD700?style=for-the-badge&logo=beer&logoColor=black)
-  ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
-  ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=for-the-badge&logoColor=white)
-  ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-  ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-
-  ### Operating Systems
-  ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
-  ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-  ### Languages & Tools
-  ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
-  ![Black Tea / Yerba Mate](https://img.shields.io/badge/Black_Tea_%2F_Yerba_Mate-8B4513?style=for-the-badge&logo=tea&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![ConnectWise](https://img.shields.io/badge/ConnectWise-D9291C?style=for-the-badge&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![S3 (Ceph RGW/MinIO)](https://img.shields.io/badge/S3_(Ceph_RGW%2FMinIO)-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
-  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  | | |
+  |---|---|
+  | **Infrastructure** | ![Proxmox](https://img.shields.io/badge/Proxmox_(VE%2FBS)-E57000?style=flat&logo=proxmox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white) ![Chrony](https://img.shields.io/badge/Chrony-1793D1?style=flat&logoColor=white) ![Velero](https://img.shields.io/badge/Velero-5C4EE5?style=flat&logoColor=white) ![UrBackup](https://img.shields.io/badge/UrBackup-0078D7?style=flat&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white) ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white) |
+  | **Networking** | ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat&logo=cilium&logoColor=black) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=flat&logo=mikrotik&logoColor=white) ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat&logo=ubiquiti&logoColor=white) ![NetBird](https://img.shields.io/badge/NetBird-5340FF?style=flat&logoColor=white) ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat&logo=adguard&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-0078D4?style=flat&logoColor=white) ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=flat&logoColor=white) ![CARP](https://img.shields.io/badge/CARP-212121?style=flat&logoColor=white) ![Comcast /29](https://img.shields.io/badge/Comcast_\/29-000000?style=flat&logoColor=white) ![La Fin Du Monde](https://img.shields.io/badge/La_Fin_Du_Monde-FFD700?style=flat&logoColor=black) |
+  | **Security** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black) ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=flat&logoColor=white) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=flat&logoColor=white) ![Anubis](https://img.shields.io/badge/Anubis-000000?style=flat&logoColor=white) ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=flat&logoColor=white) ![SOPS](https://img.shields.io/badge/SOPS-4A154B?style=flat&logoColor=white) ![AGE](https://img.shields.io/badge/AGE-5C2D91?style=flat&logoColor=white) ![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white) ![Hyrulian Shield](https://img.shields.io/badge/Hyrulian_Shield-0E4C92?style=flat&logo=nintendo&logoColor=white) |
+  | **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logoColor=white) ![Alloy](https://img.shields.io/badge/Alloy-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white) ![Gatus](https://img.shields.io/badge/Gatus-46A758?style=flat&logoColor=white) ![Tactical RMM](https://img.shields.io/badge/Tactical_RMM-0089D6?style=flat&logoColor=white) ![NUT UPS](https://img.shields.io/badge/NUT_UPS-FFB81C?style=flat&logoColor=black) ![Umami](https://img.shields.io/badge/Umami-000000?style=flat&logoColor=white) |
+  | **DevOps** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat&logo=flux&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![S3 (RGW/MinIO)](https://img.shields.io/badge/S3_(RGW%2FMinIO)-EF5C55?style=flat&logo=ceph&logoColor=white) |
+  | **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+  | **Platforms** | ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white) |
+  | **Hardware** | ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=flat&logo=amd&logoColor=white) ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat&logo=intel&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) ![Supermicro](https://img.shields.io/badge/Supermicro-2EA043?style=flat&logoColor=white) ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=flat&logo=netapp&logoColor=white) ![Eaton 5PX](https://img.shields.io/badge/Eaton_5PX_3000-00A651?style=flat&logoColor=white) ![ADHD](https://img.shields.io/badge/ADHD-FF6B9D?style=flat&logoColor=white) |
+  | **Fuel** | ![Black Tea / Yerba Mate](https://img.shields.io/badge/Black_Tea_%2F_Yerba_Mate-8B4513?style=flat&logoColor=white) ![ConnectWise](https://img.shields.io/badge/ConnectWise-D9291C?style=flat&logoColor=white) ![FusionPBX](https://img.shields.io/badge/FusionPBX%2FFreeSWITCH-2A9FD8?style=flat&logoColor=white) ![apt-cacher-ng](https://img.shields.io/badge/apt--cacher--ng-E95420?style=flat&logo=ubuntu&logoColor=white) |
 
   ---
 
