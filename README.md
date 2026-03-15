@@ -78,7 +78,7 @@
   |---|---|
   | **Infrastructure** | ![Proxmox](https://img.shields.io/badge/Proxmox_(VE%2FBS)-E57000?style=flat&logo=proxmox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white) ![Chrony](https://img.shields.io/badge/Chrony-1793D1?style=flat&logoColor=white) ![Velero](https://img.shields.io/badge/Velero-5C4EE5?style=flat&logoColor=white) ![UrBackup](https://img.shields.io/badge/UrBackup-0078D7?style=flat&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white) ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white) |
   | **Networking** | ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat&logo=cilium&logoColor=black) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=flat&logo=mikrotik&logoColor=white) ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat&logo=ubiquiti&logoColor=white) ![NetBird](https://img.shields.io/badge/NetBird-5340FF?style=flat&logoColor=white) ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat&logo=adguard&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-0078D4?style=flat&logoColor=white) ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=flat&logoColor=white) ![CARP](https://img.shields.io/badge/CARP-212121?style=flat&logoColor=white) ![Comcast /29](https://img.shields.io/badge/Comcast_\/29-000000?style=flat&logoColor=white) ![La Fin Du Monde](https://img.shields.io/badge/La_Fin_Du_Monde-FFD700?style=flat&logoColor=black) |
-  | **Security** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black) ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=flat&logoColor=white) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=flat&logoColor=white) ![Anubis](https://img.shields.io/badge/Anubis-000000?style=flat&logoColor=white) ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=flat&logoColor=white) ![SOPS](https://img.shields.io/badge/SOPS-4A154B?style=flat&logoColor=white) ![AGE](https://img.shields.io/badge/AGE-5C2D91?style=flat&logoColor=white) ![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white) ![Palmetto State](https://img.shields.io/badge/Palmetto_State_Armory-556B2F?style=flat&logoColor=white) ![Glock](https://img.shields.io/badge/Glock-333333?style=flat&logoColor=white) ![.223/5.56](https://img.shields.io/badge/.223%2F5.56-333333?style=flat&logoColor=white) ![Hyrulian Shield](https://img.shields.io/badge/Hyrulian_Shield-0E4C92?style=flat&logo=nintendo&logoColor=white) |
+  | **Security** | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black) ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=flat&logoColor=white) ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat&logo=bitwarden&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white) ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=flat&logoColor=white) ![Anubis](https://img.shields.io/badge/Anubis-000000?style=flat&logoColor=white) ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=flat&logoColor=white) ![SOPS](https://img.shields.io/badge/SOPS-4A154B?style=flat&logoColor=white) ![AGE](https://img.shields.io/badge/AGE-5C2D91?style=flat&logoColor=white) ![YubiKey](https://img.shields.io/badge/YubiKey-84BD00?style=flat&logo=yubico&logoColor=white) ![Palmetto State](https://img.shields.io/badge/Palmetto_State_Armory-556B2F?style=flat&logoColor=white) ![Glock](https://img.shields.io/badge/Glock-333333?style=flat&logoColor=white) ![9mm](https://img.shields.io/badge/9mm-333333?style=flat&logoColor=white) ![.223](https://img.shields.io/badge/.223-333333?style=flat&logoColor=white) ![Hyrulian Shield](https://img.shields.io/badge/Hyrulian_Shield-0E4C92?style=flat&logo=nintendo&logoColor=white) |
   | **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logoColor=white) ![Alloy](https://img.shields.io/badge/Alloy-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white) ![Gatus](https://img.shields.io/badge/Gatus-46A758?style=flat&logoColor=white) ![Tactical RMM](https://img.shields.io/badge/Tactical_RMM-0089D6?style=flat&logoColor=white) ![NUT UPS](https://img.shields.io/badge/NUT_UPS-FFB81C?style=flat&logoColor=black) ![Umami](https://img.shields.io/badge/Umami-000000?style=flat&logoColor=white) ![La Fin Du Monde](https://img.shields.io/badge/La_Fin_Du_Monde-DAA520?style=flat&logoColor=white) |
   | **DevOps** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat&logo=flux&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![S3 (RGW/MinIO)](https://img.shields.io/badge/S3_(RGW%2FMinIO)-EF5C55?style=flat&logo=ceph&logoColor=white) |
   | **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
@@ -90,39 +90,32 @@
 
   ## Featured Projects
 
-  #### PrPlanIT
+  ### DevOps & Infrastructure Tools
 
-  | Project | Description |
-  |---------|-------------|
-  | [**StageFreight**](https://github.com/PrPlanIT/StageFreight) | Declarative CI/CD engine for container images — build, scan, sign, release from `.stagefreight.yml` |
-  | [**HASteward**](https://github.com/PrPlanIT/HASteward) | High Availability Steward — triage, repair, backup, restore for PostgreSQL (CNPG) and MariaDB (Galera) |
-  | [**Fairer-Pages**](https://github.com/PrPlanIT/fairer-pages) | Custom error and default page server for Gateway API environments |
-  | [**DD-UI**](https://github.com/PrPlanIT/DD-UI) | Declarative, security-first Docker orchestration engine |
-  | [**VirtualDisplayDriver_Wizard**](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard) | AutoHotkey GUI for Indirect Display Driver management + Sunshine integration |
+  | | |
+  |---|---|
+  | [**StageFreight**](https://github.com/PrPlanIT/StageFreight) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) | **Declarative CI/CD engine** for container images. Build, scan, sign, release from `.stagefreight.yml`. Multi-registry publishing, vulnerability scanning, SBOM generation, manifest-driven README content. |
+  | [**HASteward**](https://github.com/PrPlanIT/HASteward) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-4169E1?style=flat&logo=postgresql&logoColor=white) | **High Availability Steward** for stateful databases. Triage, repair, backup, restore for CloudNativePG (PostgreSQL) and Galera (MariaDB). Escrow backups, restic-backed, runs as a K8s Job. |
+  | [**Fairer-Pages**](https://github.com/PrPlanIT/fairer-pages) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) | **Custom error and default page server** for Gateway API environments. Branded error pages, catch-all HTTPRoute fallback, single binary. |
+  | [**DD-UI**](https://github.com/PrPlanIT/DD-UI) ![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) | **Declarative, security-first Docker orchestration engine.** *"Please Docker responsibly."* |
+  | [**VirtualDisplayDriver_Wizard**](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard) ![AutoHotkey](https://img.shields.io/badge/-334455?style=flat&logo=autohotkey&logoColor=white) | **AutoHotkey GUI** for Indirect Display Drivers. Sunshine integration, one-click install/reload, virtual display setup for headless hosts. |
+  | [**PVE_Ceph-Disaster_Recovery**](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery) ![Shell](https://img.shields.io/badge/-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | **Ceph monitor store recovery** for Proxmox clusters that lost all monitors. Restore quorum from OSDs. Battle-tested. |
 
-  #### HomeLabHD
+  ### Container Images & Infrastructure
 
-  | Project | Description |
-  |---------|-------------|
-  | [**PVE_Ceph-Disaster_Recovery**](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery) | Shell-based Ceph monitor store recovery for Proxmox — battle-tested on production clusters |
-  | [**ansible**](https://github.com/HomeLabHD/ansible) | Lightweight Alpine Ansible image with WinRM, SOPS, and community collections |
-  | [**nginx-extras**](https://github.com/HomeLabHD/nginx-extras) | Nginx with extras module compiled in |
-  | [**apt-cacher-ng**](https://github.com/HomeLabHD/apt-cacher-ng) | APT caching proxy for Debian/Ubuntu repositories |
+  | | |
+  |---|---|
+  | [**Dungeon**](https://github.com/SoFMeRight/dungeon) | Complete Kubernetes cluster state — FluxCD, Ansible, Ceph, Cilium, Istio. The whole production stack as code. |
+  | [**HomeLabHD Catalog**](https://github.com/HomeLabHD) [![hlhd](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd) | Community container images — [ansible](https://github.com/HomeLabHD/ansible), [apt-cacher-ng](https://github.com/HomeLabHD/apt-cacher-ng), [nginx-extras](https://github.com/HomeLabHD/nginx-extras), and more. |
 
-  #### GitLab CI Components
+  ### GitLab CI Components
 
-  | Component | Description |
-  |-----------|-------------|
-  | [**stagefreight-glc**](https://gitlab.prplanit.com/PrPlanIT/StageFreight/components-stagefreight) | Reusable CI component for StageFreight release pipelines |
-  | [**ansible-glc**](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD/components-ansible) | Ansible playbook execution as CI pipeline stages |
-  | [**ntfy-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ntfy) | ntfy web-push notifications from CI pipelines |
-  | [**ollama-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ollama) | LLM text generation via Ollama REST API in CI |
-
-  #### Infrastructure
-
-  | Project | Description |
-  |---------|-------------|
-  | [**Dungeon**](https://github.com/SoFMeRight/dungeon) | Complete Kubernetes cluster state — FluxCD, Ansible, Ceph, Cilium, Istio |
+  | | |
+  |---|---|
+  | [**stagefreight-glc**](https://gitlab.prplanit.com/PrPlanIT/StageFreight/components-stagefreight) | Reusable CI component for StageFreight release pipelines — automated artifact management and publishing. |
+  | [**ollama-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ollama) | LLM text generation via Ollama REST API in CI. Configurable model workflows. |
+  | [**ntfy-glc**](https://gitlab.prplanit.com/PrPlanIT/components-ntfy) | ntfy web-push notifications as a CI pipeline stage. |
+  | [**ansible-glc**](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD/components-ansible) | Ansible playbook execution as CI pipeline stages. |
 
   ---
 
