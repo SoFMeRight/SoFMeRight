@@ -13,7 +13,7 @@
   [![PrPlanIT GitHub](https://img.shields.io/badge/PrPlanIT-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrPlanIT)
   [![HomeLabHD GitHub](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD)
   [![PrPlanIT GitLab](https://img.shields.io/badge/PrPlanIT-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/PrPlanIT)
-  [![HomeLabHD GitLab](https://img.shields.io/badge/HomeLabHD-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD)
+  [![HomeLabHD GitLab](https://img.shields.io/badge/HomeLabHD-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/HomeLabHD)
   [![prplanit Docker](https://img.shields.io/badge/prplanit-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/prplanit)
   [![hlhd Docker](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
   [![donate](https://img.shields.io/badge/donate-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/sofmeright)
